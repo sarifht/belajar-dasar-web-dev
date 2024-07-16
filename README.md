@@ -1,3 +1,3 @@
-### Belajar Dasar Pemrograman Web
+# Belajar Dasar Pemrograman Web
 
-Belajar di Dicoding
+## Belajar di Dicoding
