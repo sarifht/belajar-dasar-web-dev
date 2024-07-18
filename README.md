@@ -9,3 +9,7 @@ Belajarnya dimana? di Dicoding
 3. Buka file berekstensi .html > lalu klik kanan "Open with Live Server".
     - _Jika belum ada bacaan Live Server, silahkan install terlebih dahulu dibagian extensions VS Code-nya_
 4. Website sederhana ini, berhasil dijalankan.
+
+...
+
+Ditulis oleh: Sarif Hidayatullah
