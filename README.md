@@ -1,7 +1,7 @@
 # Belajar Dasar Pemrograman Web 🌱
-Ini merupakan file latihan saya. Latihan membuat website sederhana profil Kota Bandung, kebanyakan saya mengikuti kodingan yang ada dikelas, lalu menulis ulangnya lagi. Saya mengikuti kelas "Belajar Dasar Pemrograman Web" dari Dicoding.
+Ini merupakan file latihan saya. Latihan membuat website sederhana profil Kota Bandung, kebanyakan saya mengikuti kodingan yang ada dikelas, lalu menulis ulangnya kembali bahkan sesekali merubah kodingan aslinya tapi hanya sedikit. Saya mengikuti kelas "Belajar Dasar Pemrograman Web" dari Dicoding.
 
-Terima kasih sudah berkunjung ke repository saya, jika kamu berkenan silahkan saja pakai repository ini untuk mendukung kegiatan belajarmu, saya turut senang jika kita bisa belajar bersama 😊 semangat belajarnya dan yakinlah kamu ga sendirian dalam perjalanan ini ☕
+Terima kasih sudah berkunjung ke repository saya, jika kamu berkenan silahkan saja pakai repository ini untuk mendukung kegiatan belajarmu, saya turut senang jika kita bisa belajar bersama 😊 semangat belajarnya dan percayalah kamu ga sendirian dalam perjalanan ini ☕
 
 ...
 
